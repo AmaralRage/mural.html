@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body {
+    background-image: url("https://c.wallhere.com/photos/b8/50/1920x1080_px_Corgi_dog_Garlic_space_universe-1355237.jpg!d");
+    font-family: 'Open Sans', sans-serif;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+h1, h2 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-left: 50px;
+    color: white;
+}
+
+h3 {
+    font-size: 20px;
+    margin-left: 30px;
+    color: white;
+}
+
+.foto {
+    height: 170px;
+    border-radius: 20px;
+    margin-left: 50px;
+}
